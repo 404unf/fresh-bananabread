@@ -1,9 +1,20 @@
 body {
     padding: 40px;
-    background-color:khaki;
     border: 12px solid #5A4103;
+    background-image: url(./AdobeStock_57197606_Preview.jpeg);
+    background-size: cover;
 }
 
 a {
     color: saddlebrown;
+}
+
+h1 {
+    font-family: 'American Typewriter';
+    font-weight:800;
+}
+
+h2 {
+    font-family: 'American Typewriter';
+    font-weight: 600;
 }
