@@ -1,5 +1,7 @@
 body {
+    padding: 40px;
     background-color:khaki;
+    border: 12px solid #5A4103;
 }
 
 a {
