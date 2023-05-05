@@ -2,6 +2,6 @@ const reference = document.getElementById('reference')
 
 const link = document.createElement('a')
 link.href = 'https://www.livewellbakeoften.com/classic-banana-bread-recipe/'
-link.textContent = <em>Live Well Bake Often</em>
+link.textContent = 'Live Well Bake Often'
 
-document.querySelector('em').appendChild(link)
+document.querySelector('#referenceLink').appendChild(link)
